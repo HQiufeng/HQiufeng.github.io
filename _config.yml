@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WU Junchao"
+title                    : "HE Qiufeng"
 title_separator          : "-"
-name                     : &name "WU Junchao"
+name                     : &name "HE Qiufeng"
 description              : &description "personal description"
 url                      : https://junchaoiu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "junchaoIU/junchaoIU.github.io"
+repository               : "HQiufeng/HQiufeng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junchao Wu"
+  name             : "HE Qiufeng"
   avatar           : "profile.png"
-  bio              : "Undergraduate Student"
-  location         : "Zhuhai, China"
+  bio              : "Ph.D Student"
+  location         : "Shenzhen, China"
   employer         :
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "wujunchaoIU@outlook.com"
+  email            : "1900474011@emai.szu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,14 +95,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "junchaoIU"
+  github           : "HQiufeng"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-5044-3019"
+  orcid            : # "http://orcid.org/0000-0001-5044-3019"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
