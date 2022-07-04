@@ -1,16 +1,14 @@
 ---
-title: "A topical network based analysis and visualization of global research trends on green building from 1990 to 2020 l"
+title: "CAiRE_HKUST at SemEval-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification"
 collection: publications
-status: published
-permalink: /publication/A topical network based analysis and visualization of global research trends on green building from 1990 to 2020 l
+permalink: /publication/2019-06-10-paper-caire
 excerpt: ''
-date: 2022-06-01
-venue: 'International Journal of Environmental Research and Public Health'
-paperurl: ''
-authors: ''
-citation: 'Wu Z.Z., He Q.F., Yang K.J., et al. Investigating the dynamics of China's green building policy development from 1986 to 2019[J]. International Journal of Environmental Research and Public Health, 2021. 18(1), 196.'
-paper: ''
-code: ''
-award: ''
-show_year: true
+date: 2019-06-12
+venue: 'Proceedings of the 13th International Workshop on Semantic Evaluation in conjuction with NAACL'
+paperurl: 'https://arxiv.org/pdf/1810.12264.pdf'
+authors: 'Genta Indra Winata, Andrea Madotto, Zhaojiang Lin, Jamin Shin, Yan Xu, Peng Xu, Pascale Fung'
+citation: 'Winata, G. I., Madotto, A., Lin, Z., Shin, J., Xu, Y., Xu, P., & Fung, P. (2019, June). CAiRE_HKUST at SemEval-2019 Task 3: Hierarchical Attention for Dialogue Emotion Classification. In Proceedings of the 13th International Workshop on Semantic Evaluation (pp. 142-147).'
+paper: 'https://www.aclweb.org/anthology/S19-2021v2.pdf'
+code: 'https://github.com/HLTCHKUST/dialogue-emotion'
+award: 'Top 4 out of 160 teams'
 ---
