@@ -8,47 +8,45 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download my [CV_Chinese version](../files/WU_Junchao_CV_ZH.pdf) and [CV_English version](../files/WU_Junchao_CV_EN.pdf) in PDF.
+You can download my [CV_Chinese version](../files/HE_Qiufeng_CV_ZH.pdf) and [CV_English version](../files/HE_Qiufeng_CV_EN.pdf) in PDF.
 
 Education
 ======
-* B.S. in Information Management and Information System, Beijing Normal University, Zhuhai, *Sept. 2018 - Present*
+* B.S. in Cost Engineering, Sichuan Normal University, Chengdu, GPA: 3.68/4.0 (3/33), *Sept. 2015 - Jun. 2019*
+* MA.Eng. in Management Science and Engineering, Shenzhen University, Shenzhen, GPA: 3.78/4.0 (1/120), *Sept. 2019 - Jun. 2022*
 
 
-## Work experience
-<!-- ====== -->
-* **Research Assistant(Full-time): *Jan. 2022 - Present***
-  * School of Management, Beijing Normal University, Zhuhai, Zhuhai, China
-  * Conducted research on the intelligent question answering system in the history of modern Chinese revolution, and completed the construction of the V1.0 version
-  * Conduct research on text mining and classification of BillBill community bullet chatter. I am mainly responsible for the position detection research, experimental implementation and model comparison of BillBill's bullet chat text.
+Research Project
+======
+* **Solving public housing problem in Hong Kong by adopting modular integrated construction (MiC) to build the transitional house（K-QZ2D）: *Sept. 2021 - Mar. 2022***
+  * The Hong Kong Polytechnic University
+  * Role: Research assistant
+  * Responsibility: Data collection; Data analysis; Report writing.
 
-* **Development Intern(Full-time): *July 2021 - Jan. 2022***
-  * Orient Overseas Container Line (China) Ltd. Zhuhai, China
-  * Participate in the maintenance and development of the service background and front-end interface of the OOCL shipping logistics system My OOCL Center (MOC), etc., mainly responsible for the shipping order function module; support and repair the needs and feedback bugs of customers and business departments (technology stack: J2EE, JSP , Oracle, WebLogic, Apache Ant)
-  * Participated in the reconstruction and development of OOCL container equipment transfer order system (EIR); (technical stack: Vue, SpringBoot, Oracle, Hibernate)
+* **BIM-based intelligent detection system  : *Sept. 2017 - Nov. 2018***
+  * Sichuan Normal University
+  * Role: Project director
+  * Responsibility: Team leading; Task assignment; Equipment procurement; Establishment of an architectural model; Project defense; Report writing.
+  * Outcome: A Revit-based plug-in; An APP for monitoring the quality of building components; A paper in Chinese; An invention patent; Two utility patents.
+
+Practical Subject
+======
+* **Post evaluation of bidding and tendering of construction projects in Baoan District in 2020 : *May 2021 - Jul. 2021***
+  * Project contract amount: 320,000     
+  * Role: Project leader             
+  * Responsibility : Project proposal drafting; Communication problems with Party A; Schedule control; Participation in post-evaluation tasks; Project report writing; Revision of government report.
+
+* **Post evaluation of bidding and tendering of construction projects in Baoan District in 2019 : *Nov. 2020 - Dec. 2020***
+  * Project contract amount: 220,000      
+  * Role: Project participant
+  * Responsibility : Participation in post-evaluation tasks; Project report writing.
 
 
-## Research experience
-<!-- ====== -->
-* **Construction of a digital library for the history of modern China's revolution based on knowledge graph** : Worked as Project Manager -- *May 2019 - March 2021*
-  * Project leader, responsible for project direction control, task assignment, thesis writing and system maintenance and improvement, and the final project is successfully concluded (project management, teamwork)
-  * Presided over the design of ontology database and knowledge storage structure, knowledge extraction and crawler, knowledge reasoning completion scheme design (ontology research, knowledge engineering)
-  * Design and development of the Python operation library AutoProtégé for the ontology editing tool Protégé (https://github.com/junchaoIU/AutoProtege)
-  * Responsible for the front-end development and back-end development of the system, has been deployed and launched (https://gzknowledge.cn) and registered the computer software copyright certificate: China Modern Revolution History Knowledge Graph System V1.0 (the first copyright holder) (Technology stack: React, SpringBoot, Jena)
-  * Completed the design and application of the information double-layer retrieval model. The paper "The Canton Canon" Digital Library Based on Knowledge Graph - Taking the Revolutionary Archives of Canton in the Republic of China as an Example was published in **IEEE 10th International Conference on Educational and Information Technology (ICEIT)**, was invited to present at the conference to give a report and won the Best Oral Presentation Award of the conference (First author, EI)
-  * Completed the design and application of the spatiotemporal knowledge model.The paper "Research and application of digitization of Chinese modern revolutionary historical document resources based on spatio-temporal evolution knowledge graph" was under review by the chinese core journal **Digital Library Forum** (CSSCI). 
-
-* **Research and Application of Digitalization of Long March Red Cultural Resources Based on Knowledge Graph** : Worked as Backend Engineer -- *May 2020 - Present*
-  * Responsible for App back-end technology selection, design and development (technology stack: Flask, Neo4j)
-  * Participate in the design and construction of the underlying knowledge graph model, the cleaning, transformation and knowledge base storage of structured data (knowledge engineering)
-  * The project achievement paper "Long March Red Digital Cultural Resource Knowledge Graph Service Mode for Youth Education" was published in the **2021 Lingnan Academic Forum** "Youth Red Culture Education Practice and Innovation" thematic collection, and was invited to become a member of the Guangdong Red Culture Research Association
-  * The paper "Research and application of digitization of Long March Red Cultural Resources Based on Knowledge Graph" was published in **Electronic Technology & Software Engineering**   
-
-* **Research on text mining and cultural phenomenon based on bullet screen corpus** : Worked as Data Mining & Algorithm Engineer -- *May 2020 - Present*
-  * Participate in data engineering such as barrage crawler, data cleaning and storage; project database barrage data volume reaches 50 million (Python crawler and text preprocessing)
-  * Responsible for text mining and text classification research of bullet screen corpus, including sentiment analysis and text position detection (using rules, statistical machine learning and deep learning methods)
-  * Conducted research on new word discovery algorithms in the field of barrage corpus. The paper "Multi-feature fusion new word discovery model for barrage" was under review by the chinese core journal **Computer Application Research**. 
-  * Conducted research on the construction and application of subculture barrage corpus, and the paper "Construction and Analysis of Subculture Barrage Corpus" has been accepted by journal **Information Research**
+Patent
+======
+- Huo H.E., He Q.F., Wang Y., et al. An RFID chip convenient for searching quality detection information of building components, CN208044650U [P/OL]. 2018-11-02.
+- Huo H.E.,  Wang Y., He Q.F., et al. An intelligent positioning feedback system and method for building construction quality detection, CN110580512A [P/OL]. 2019-12-17.
+- Huo H.E., Feng R.K., Wang Y., He Q.F., et al. A building component embedded with an RFID chip, CN208137271U [P/OL]. 2018-11-23.
   
 
 ## Publications
@@ -66,16 +64,43 @@ Education
 
 Awards
 ======
-- National Second Prize & Guangdong First Prize in the 7th Teddy Cup Data Mining Challenge (Title: Analysis of Safe Driving Behavior of Transport Vehicles), 2019
-- First Prize in China University Students Mathematical Contest in Modeling, Guangdong Division (Title: Credit Decisions of Small, Medium and Micro Enterprises), 2020
-- Best Presentation Award in the 10th IEEE International Conference on Education and Information Technology, ICEIT 2021
-- Third prize in the 8th "Challenge Cup" College Students' Extracurricular Academic Science and Technology Works Competition in Beijing Normal University, Zhuhai, 2020
+- Oct. 2021, National Scholarship, The Ministry of Education of the People’s Republic of China
+- Nov. 2017, National Scholarship, The Ministry of Education of the People’s Republic of China
+- Dec. 2016, National Encouragement Scholarship, The Ministry of Education of the People’s Republic of China
+- Aug. 2019, Outstanding Graduate of Sichuan Province, The Education department of Sichuan province
+- May  2018, The Ninth National BIM Application Skills Competition, Construction Education Association of China, Third Prize in All-around Final, Third Prize in Project Cost, Second Prize in Project Management.
+- May  2018, Second Prize in Innovation Competition of BIM Skills, Sichuan Construction Talent Development Council       
+- Apr. 2018, Excellent Award in the Final of the 4th Structural Design Competition in Sichuan, Organizing Committee of Structural Design Competition for Sichuan University Students
+- Oct. 2020 - Oct.2021, The First Prize Scholarship (top10%, twice), Shenzhen  University
+- Sept. 2016 - Oct. 2020, The First Prize Scholarship (top3%, seven times), Sichuan Normal University
+- Sept. 2016 - Oct. 2020, Merit Student (seven times), Sichuan Normal University
+
+
+Campus Experience/ Activity
+======
+* **College of Civil and Transportation Engineering, Shenzhen University** - Role:  Office assistant - Sept. 2020-present
+  * Organization of college activities (The seventh Shenzhen university innovative city & smart bay area sub-forum; The opening ceremony for freshmen; The employment forum for graduates);
+  * Production of  activity posters and  PowerPoints (Poster of graduate employment forum; PowerPoint for epidemic prevention and control; Government education  PowerPoint);
+  *Collection of employment information for college graduates; Sort of company recruitment information.
+
+* **Sichuan Normal University** - Role: Campus ambassador - Sept. 2017 - Sept. 2018
+  * Speech (Publicity of national student loan policy; Giving inspirational speeches to freshmen on behalf of the senior grade)
+
+* **College of Engineering, Sichuan Normal University** - Role:  Monitor - Sept. 2015 - Juy. 2019
+  * Class management; Activity planning; Information collection; Participation in excellent class honor election.
 
 
 Professional skills
 ======
-* English Level: IELTS(6.5), CET-6(507)
-* Languages: C, Python, JAVA, JavaScript, SQL, Bash 
-* Frameworks: SpringBoot, ReactJS, Scikit-learn, SpaCy, TensorFlow, Keras, Flask 
-* Other Tools: WebLogic, Ant, Neo4j, MySQL, Oracle, Jena, Git 
-* Soft Skills: Leadership, Event Management, Writing, Public Speaking, Time Management
+* Programming skill: Python;
+* Analysis skill: STATA, AnyLogic, Nvivo, EEG, Endnote, SPSS, CiteSpace, VOSviewer, Text Mining;
+* Professional skill: Proficient in Revit, CAD, Lumion, Glodon, Swire;
+* Office software operation skill: National Computer Rank Examination Certificate Ⅱ.
+
+
+Hobby
+======
+- Design PowerPoint;
+- Landscape painting; 
+- Sport (e.g. running, swimming, basketball, badminton, yoga).
+
