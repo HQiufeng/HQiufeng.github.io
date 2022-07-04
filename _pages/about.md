@@ -30,7 +30,7 @@ Publications
 
 Research Project
 ======
-* **Solving public housing problem in Hong Kong by adopting modular integrated construction (MiC) to build the transitional house（K-QZ2D）** of ***The Hong Kong Polytechnic University* : Worked as Research Assistant -- *Sept. 2021 - Mar. 2022*
+* **Solving public housing problem in Hong Kong by adopting modular integrated construction (MiC) to build the transitional house（K-QZ2D）** of **The Hong Kong Polytechnic University** : Worked as Research Assistant -- *Sept. 2021 - Mar. 2022*
 
 * **Research of BIM-based intelligent detection system** of **Sichuan Normal University**: Worked as Project director -- *Sept. 2017 - Nov. 2018*
 
