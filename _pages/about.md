@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am [HE Qiufeng](https://hqiufeng.github.io) (何秋风). Currently, I am an undergraduate student at Department of Information Managemnt and Information System, [Beijing Normal University, Zhuhai](https://english.bnuz.edu.cn/), supervised by [Prof. JiangYing](https://rsgyy.bnu.edu.cn/yjjg/glcxyjzx/glcxyjzxrcdw/97671.html) and [Prof. Yangjing](https://rsgyy.bnu.edu.cn/yjjg/yykxyjzx/rcdw2/97903.html). My current research interests are Information Organization and Information Retrieval and Natural Language Processing. Please feel free to contact me via email!
+I am [HE Qiufeng](https://hqiufeng.github.io) (何秋凤). Currently, I am a Ph.D student at College of Civil and Transportation Engineering, [Shenzhen University](https://www.szu.edu.cn/), supervised by [Prof. Chen Xiangsheng](https://facultyce.szu.edu.cn/chenxiangsheng/zh_CN/index.htm) and [Prof. Wu Zezhou](https://facultyce.szu.edu.cn/wuzezhou/zh_CN/index.htm). My current research interests are Green building and Building information modeling. Please feel free to contact me via email!
 
 News
 ======
@@ -30,11 +30,16 @@ Publications
 
 Research Project
 ======
-* **Construction of a digital library for the history of modern China's revolution based on knowledge graph** : Worked as Project Manager -- *May 2019 - March 2021*
+* **Solving public housing problem in Hong Kong by adopting modular integrated construction (MiC) to build the transitional house（K-QZ2D）** of ***The Hong Kong Polytechnic University* : Worked as Research Assistant -- *Sept. 2021 - Mar. 2022*
 
-* **Research and Application of Digitalization of Long March Red Cultural Resources Based on Knowledge Graph** : Worked as Backend Engineer -- *May 2020 - Present*
- 
-* **Research on text mining and cultural phenomenon based on bullet screen corpus** : Worked as Data Mining & Algorithm Engineer -- *May 2020 - Present*
+* **Research of BIM-based intelligent detection system** of **Sichuan Normal University**: Worked as Project director -- *Sept. 2017 - Nov. 2018*
+
+
+Practical Subject
+======
+* **Post evaluation of bidding and tendering of construction projects in Baoan District in 2020** : Worked as Project Leader -- *May 2021 - Jul. 2021*
+
+* **Post evaluation of bidding and tendering of construction projects in Baoan District in 2019** : Worked as Project Participant -- *Nov. 2020 - Dec. 2020*
 
 
 Patent
@@ -46,9 +51,17 @@ Patent
 
 Awards
 ======
-- National Scholarship, The Ministry of Education of the People’s Republic of China, Oct. 2021
-- National Scholarship, The Ministry of Education of the People’s Republic of China, Nov. 2017 
-
+- National Scholarship, Oct. 2021
+- National Scholarship, Nov. 2017 
+- National Encouragement Scholarship, Dec. 2016
+- Outstanding Graduate of Sichuan Province, Aug. 2019
+- The Ninth National BIM Application Skills Competition, Third Prize in All-around Final, Third Prize in Project Cost, Second Prize in Project Management, May 2018
+- Second Prize in Innovation Competition of BIM Skills, May 2018    
+- Excellent Award in the Final of the 4th Structural Design Competition in Sichuan, Apr. 2018
+- The First Prize Scholarship (top10%, twice), Oct. 2020 - Oct.2021   
+- The First Prize Scholarship (top3%, seven times), Sept. 2016 - Oct. 2020
+- Merit Student (seven times), Sept. 2016 - Oct. 2020                                                                                           
+                                                                
 
 Professional skills
 ======
